@@ -1,0 +1,97 @@
+# ASP.NET Razor Pages
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.vscode
+*.vs
+*_i.c
+*_p.c
+*.ilk
+*.ncb
+*.log
+*.sqlite
+*.suo
+*.cache
+*.sln.docstates
+*.userprefs
+*.dotsettings
+*.swp
+thumbs.db
+*.DS_Store
+
+# Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.cache
+*.dbmdl
+*.pdb
+*.ipch/
+obj/
+bin/
+*.log
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.ilk
+*.meta
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+*.user
+*.aps
+*.ids
+*.ipch
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+*.vc.db
+*.vcproj.*
+*.vcxproj
+*.vcxproj.filters
+*.opendb
+*.VC.opendb
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+Task CRM/Task CRM/obj/Debug/net8.0/Task CRM.AssemblyInfo.cs
+Task CRM/Task CRM/obj/Debug/net8.0/Task CRM.AssemblyInfoInputs.cache
+Task CRM/Task CRM/obj/Debug/net8.0/Task CRM.assets.cache
+

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task CRM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a136d8570c4e54ca6a68a478db3918244fd47218")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task CRM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task CRM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
